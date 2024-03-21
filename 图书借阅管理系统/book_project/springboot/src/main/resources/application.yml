@@ -1,0 +1,13 @@
+server:
+  port: 9091
+  servlet:
+    encoding:
+      charset: UTF-8
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/book_sys?useSSL=false&useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2b8
+    username: root
+    password: 123456
+
+ip: localhost
