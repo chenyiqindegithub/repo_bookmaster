@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    color: #333;
+    font-size: 14px;
+    font-family: "Microsoft YaHei UI", serif;
+}
+a {
+    text-decoration: none;
+}
+
+/* Element-UI 样式 */
